@@ -100,3 +100,10 @@ applications which will use %{name}.
 %_libdir/lib%{name}.so
 %_libdir/lib%{name}.a
 
+
+
+%changelog
+* Fri May 04 2012 Alexander Khrukin <akhrukin@mandriva.org> 0.5.1.3-1
++ Revision: 795967
+- imported package celt051
+
