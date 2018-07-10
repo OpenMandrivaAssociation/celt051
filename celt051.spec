@@ -7,7 +7,7 @@
 Summary:	Ultra-low delay audio codec
 Name:		celt%{api}
 Version:	0.5.1.3
-Release:	9
+Release:	10
 License:	BSD
 Group:		Sound
 Url:		http://www.celt-codec.org/
