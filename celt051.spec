@@ -58,7 +58,9 @@ applications which will use %{name}.
 autoreconf -vfi
 
 %configure \
-	--disable-static
+	--disable-static \
+	--enable-custom-modes \ 
+	--with-ogg=/opt/local
 %make_build
 
 %install
