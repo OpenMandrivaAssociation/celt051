@@ -60,6 +60,7 @@ autoreconf -vfi
 %configure \
 	--disable-static \
 	--enable-custom-modes \ 
+	--disable-oggtest \
 	--with-ogg=/opt/local
 %make_build
 
