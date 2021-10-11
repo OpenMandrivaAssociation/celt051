@@ -61,7 +61,7 @@ autoreconf -vfi
 	--disable-static \
 	--enable-custom-modes \ 
 	--disable-oggtest \
-	--with-ogg=/opt/local
+	--with-ogg=/usr/lib64
 %make_build
 
 %install
