@@ -10,7 +10,7 @@ Version:	0.5.1.3
 Release:	12
 License:	BSD
 Group:		Sound
-Url:		http://www.celt-codec.org/
+Url:		https://www.celt-codec.org/
 Source0:	http://downloads.us.xiph.org/releases/celt/%{oname}-%{version}.tar.gz
 BuildRequires:	pkgconfig(ogg)
 
